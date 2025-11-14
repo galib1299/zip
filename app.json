@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 𝐃𝐈𝐋𝐉𝐀𝐋𝐄  ™",
+    "name": "𝐓𝐞𝐱𝐭 Uploader  ™",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://envs.sh/srE.jpg",
     "keywords": [
@@ -8,15 +8,15 @@
         "pyrogram"
     ],
     "repository": "https://github.com/1505-prinsu/DRM-and-ZIP-Uploader",
-    "success_url": "https://telegram.me/Aonadost_1505bot" ,
+    "success_url": "" ,
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "27433400",
+            "description": "",
             "required": true
         },
         "API_HASH": {
-            "description": "1a286620de5ffe0a7d9b57e604293555",
+            "description": "",
             "required": true
         },
         "BOT_TOKEN": {
