@@ -17,7 +17,7 @@ OWNER = int(os.environ.get("OWNER", "6834250190"))
 # auth_chats = []
 
 #try:
-    ADMINS=[6834250190]
+   #ADMINS=[6834250190]
     #for x in (os.environ.get("ADMINS", "6834250190").split()):
         #ADMINS.append(int(x))
 #except ValueError:
